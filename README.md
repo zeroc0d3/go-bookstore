@@ -1,4 +1,12 @@
 # Simple Golang API
+![goreport](https://goreportcard.com/badge/github.com/zeroc0d3/go-bookstore)
+![all contributors](https://img.shields.io/github/contributors/zeroc0d3/go-bookstore)
+![tags](https://img.shields.io/github/v/tag/zeroc0d3/go-bookstore?sort=semver)
+![issues](https://img.shields.io/github/issues/zeroc0d3/go-bookstore)
+![pull requests](https://img.shields.io/github/issues-pr/zeroc0d3/go-bookstore)
+![forks](https://img.shields.io/github/forks/zeroc0d3/go-bookstore)
+![stars](https://img.shields.io/github/stars/zeroc0d3/go-bookstore)
+![license](https://img.shields.io/github/license/zeroc0d3/go-bookstore)
 
 ## Development
 ### Prequests
